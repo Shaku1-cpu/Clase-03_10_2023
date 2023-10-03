@@ -1,0 +1,1 @@
+console.log("Archivo 3, participante B")
